@@ -1,0 +1,10 @@
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4991-20090327_at_06h08m24__MG_0852.jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test_test/a4991-20090327_at_06h08m24__MG_0852.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4992-09-05-19-at-20h54m07s-_MG_9601.jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a4992-09-05-19-at-20h54m07s-_MG_9601.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4993-_DSC0079.jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a4993-_DSC0079.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4994-Duggan_050709_1181.jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a4994-Duggan_050709_1181.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4995-kme_00069.jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a4995-kme_00069.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4996-Duggan_090426_7783.jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a4996-Duggan_090426_7783.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4997-kme_0558jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a4997-kme_0558.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4998-Duggan_080210_5246.jpg|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a4998-Duggan_080210_5246.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a4999-DSC_0035.jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a4999-DSC_0035.jpg
+/mnt/dataset/image_processing/MIT5K-rgb/Test/test/a5000-kme_0204.jpg	|/mnt/dataset/image_processing/MIT5K-rgb/Test/expertC_gt_test/a5000-kme_0204.jpg
