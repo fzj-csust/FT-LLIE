@@ -26,6 +26,7 @@ doi = {https://doi.org/10.1016/j.dsp.2025.105044},
 url = {https://www.sciencedirect.com/science/article/pii/S1051200425000661},
 
 author = {Jianming Zhang and Zhijian Feng and Jia Jiang and Yan Gui},
+
 }
 
 The following is visual detection results:
